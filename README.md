@@ -3,7 +3,7 @@
 
 - 🔭 Deselvolvimento Back-end
 - 🌱 Estudando e aperfeiçoando .Net C#
-- 📫 Contate-me: https://www.linkedin.com/in/david-wesley-42378a186/
+- 📫 Linkedin: https://www.linkedin.com/in/david-wesley-42378a186/
 #
 
 <div style="display: inline_block"><br>
