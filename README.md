@@ -21,7 +21,6 @@
 
 #
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Davidwesleyl&bg_color=000000&color=fafafa&line=37ff00&point=f0f0f0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 #
 
