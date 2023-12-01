@@ -2,7 +2,6 @@
 
 
 - ☠️ Back-End Development
-- 🌱 Learning .Net C#
 - 📫 Linkedin: https://www.linkedin.com/in/david-wesley-42378a186/
 #
 
