@@ -2,7 +2,7 @@
 
 
 - ☠️ Back-End Development
-- 📫 Linkedin: https://www.linkedin.com/in/david-wesley-42378a186/
+
 #
 
 <div style="display: inline_block"><br>
